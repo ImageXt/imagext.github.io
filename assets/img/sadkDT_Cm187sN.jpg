@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BOKD-210 - player cdn jav streaming</title>
+<meta name="description" content="Watch BOKD-210. player cdn jav streaming" />
+<meta name="keywords" content="free jav, jav censored, censored, jav" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="1 days" />
+<meta property="og:site_name" content="player cdn jav streaming">
+<meta property="og:title" content="BOKD-210">
+<meta property="og:type" content="video">
+<meta property="og:url" content="https://player.javhd.today/99660/1/">
+<meta property="og:image" content="https://player.javhd.today/media/videos/tmb/000/099/660/.jpg">
+<meta property="og:video:duration" content="624">
+<meta property="og:video:release_date" content="1969-12-31T20:00:00-04:00">
+<link rel="canonical" href="https://player.javhd.today/99660/1/" /> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("div").click(function(){
+    $("button").toggle();
+  });
+});
+</script>
+</head>
+<body style="margin: 0px">
+<input name="video_id" type="hidden" value="99660">
+<input name="user_id" type="hidden" value="0">
+<script type="text/javascript" src="https://code.jquery.com/jquery-compat-git.js"></script>
+<style>
+	.fragment {
+    box-sizing: border-box;
+    text-decoration: none;
+    text-align: center;
+}
+#closeButton{background: rgba(11, 102, 167, 0.99);
+    color: #fff;
+    font-size: 18px;}
+.fragment img { 
+    margin-right: 10px;
+}
+.ads1{display: inline-block;}
+.ads2{display: inline-block;}
+#close {
+   
+    display:inline-block;
+    padding:2px 5px;
+    background:#ccc;
+}
+#previewBox{text-align: center;position: relative;}
+
+.button_choice_server{
+    float: left;
+    overflow: hidden;
+    font-size: 16px;
+    font-family: Arial;
+    margin: 6px 6px 0 0;
+    font-weight: 400;
+    padding: 9px 18px;
+  }  
+  #main-player{width: 100%;
+    height: 100%;}
+ #player-container{width: 100%;
+    height: 100%;
+    position: absolute;
+    display: inline;}   
+ .button_style{display: inline;
+    position: absolute;
+    left: 0;} 
+   
+</style>
+<div id="player-container">
+<script>
+function playEmbed(embed) {
+  document.getElementById('main-player').src = embed;
+
+}
+</script>
+<iframe id="main-player" scrolling="no" frameborder="0" width="100%" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">
+</iframe>
+<div class="button_style">
+<div class="button_choice_server" style="background: #cccccc94;">Show&Hide Server</div>
+<script> playEmbed('https://www.fembed.com/v/8302ru80dxl5018'); </script><button class="button_choice_server" style="margin-left: 8px;margin-bottom: 8px;" onclick=playEmbed('https://www.fembed.com/v/8302ru80dxl5018')>Fembed</button></div>
+</div>
+<div id="previewBox">
+<div class="ads">
+<div class="ads1"><script type="text/javascript">
+	atOptions = {
+		'key' : 'c21a59c4dbef7a236b2244ec7b454925',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://heiressplane.com/c21a59c4dbef7a236b2244ec7b454925/invoke.js"></scr' + 'ipt>');
+</script> </div>
+</div>
+<button id="closeButton">Close & Play</button>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#closeButton').on('click', function(e) { 
+        $('#previewBox').remove(); 
+    });
+});
+</script>
+<br style="clear:both;height:0;">
+</div>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119594690-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-119594690-7');
+</script>
+</body>
+</html>
